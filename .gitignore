@@ -1,0 +1,29 @@
+# Fichiers de compilation, de build et de dépendances
+/target/
+/bin/
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# Fichiers d'IDE (IntelliJ IDEA)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Classes compilées
+*.class
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildnumber.properties
+.mvn/timing.properties
+
+# Logs et autres
+*.log
